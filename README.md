@@ -10,7 +10,7 @@
 
 ---
 
-## ?? Repository Information
+## ?? Repository Information   
 - **Curriculum Schedule**: Day 37 of 365 (Morning Release)
 - **Primary Domain**: Type-Safe Application Development
 - **Language / Tech Stack**: TypeScript
